@@ -1,6 +1,6 @@
 # Travel_Agency
 The project involves developing a modularized management system with three microservices in Java Spring Boot, connected to a database. These services include hotel, reservation, and flight management, with a frontend for user interaction.
-<br>Created by @Shaekhrom (Alejandro Barbacil) for the java master course at ViewNext<br> 
+<br>Created by @Alejandro-Barbacil-Castro for the java master course at ViewNext<br> 
 <br>Database Sructure of travelAgency (MySQL)<br>
 <br>CREATE TABLE Hotel (
 <br> idHotel INT AUTO_INCREMENT PRIMARY KEY,
